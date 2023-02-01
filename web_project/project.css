@@ -1,0 +1,43 @@
+
+
+.text-centered {
+    text-align:center
+}
+.dark-background{
+    background-color:#161B33;
+    color: whitesmoke;
+}
+.wrapper{
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.light-background{
+    background-color: #F1DAC4; 
+}
+.text-right{
+    text-align: right;
+}
+#imageContainer {
+    float: left;
+    width: 300px;
+}
+#textContainer {
+    float: left;
+    width: 400px;
+    ;
+}
+#pageContainer {
+    background-color: #F1DAC4;
+}
+.inside{
+    list-style-position: inside;
+}
+
